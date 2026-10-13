@@ -21,7 +21,7 @@ Quiniela de oficina en Google Apps Script con el formato completo de 48 equipos.
 Compara CETES, pagarés y ahorro (rendimiento nominal vs. real, ISR), calcula tablas de amortización con pagos anticipados y CAT aproximado, y metas de ahorro. Matemática verificada contra numpy-financial.
 `React` `TypeScript` `Tailwind` `Vitest` · 89 pruebas · GitHub Pages
 
-### 📅 [Horarios API v2](https://github.com/Aloner23/horarios-api)
+### 📅 [Horarios API v2](https://github.com/Aloner23/sistHorario)
 Generador de horarios escolares como servicio: **programación con restricciones (OR-Tools CP-SAT)** que nunca empalma profesores, salones ni grupos y minimiza huecos; si no hay solución, explica por qué.
 `Python` `FastAPI` `OR-Tools` `Docker` · 43 pruebas
 
@@ -32,7 +32,7 @@ Generador de horarios escolares como servicio: **programación con restricciones
 | Proyecto | Qué es | Stack |
 |---|---|---|
 | [Sistema de Horarios](https://github.com/Aloner23/sistHorarios) | Mi primera versión del generador de horarios (2023), renovada: seguridad, migraciones, datos demo y CI | Django · 51 pruebas |
-| [Fleet Energy Analytics](https://github.com/Aloner23/fleet-energy-analytics) | Pipeline de limpieza y análisis de consumo energético de flotillas con estimación de CO2e y reporte HTML | Python · pandas · 42 pruebas |
+| [Fleet Energy Analytics](https://github.com/Aloner23/Pruebas) | Pipeline de limpieza y análisis de consumo energético de flotillas con estimación de CO2e y reporte HTML | Python · pandas · 42 pruebas |
 
 ---
 
