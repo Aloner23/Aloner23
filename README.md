@@ -50,7 +50,7 @@ Pronósticos, clasificación y administración sobre Google Sheets, con una demo
 | Proyecto | Problema y enfoque | Tecnologías |
 | --- | --- | --- |
 | [Horarios API v2](https://github.com/Aloner23/sistHorario) | Horarios escolares con restricciones, diagnóstico de casos imposibles y verificación independiente de la solución. [Inicio local](https://github.com/Aloner23/sistHorario#inicio-rápido). | Python · FastAPI · OR-Tools · Docker |
-| [Fleet Energy Analytics](https://github.com/Aloner23/Pruebas) | De CSV incompletos a datos validados, métricas de flota y reportes HTML. Explicita supuestos y separa datos reales de sintéticos. [Notebook](https://github.com/Aloner23/Pruebas/blob/main/notebooks/analisis_exploratorio.ipynb). | Python · pandas · matplotlib · pytest |
+| [Fleet Energy Analytics](https://github.com/Aloner23/fleet-energy-analytics) | De CSV incompletos a datos validados, métricas de flota y reportes HTML. Explicita supuestos y separa datos reales de sintéticos. [Notebook](https://github.com/Aloner23/fleet-energy-analytics/blob/main/notebooks/analisis_exploratorio.ipynb). | Python · pandas · matplotlib · pytest |
 | [Horarios v1 · Django](https://github.com/Aloner23/sistHorarios) | Gestión académica, asignación de clases y vistas por grupo, profesor y salón. Punto de partida de la evolución hacia la API v2. | Python · Django · SQL · pytest |
 
 ## Cómo trabajo
