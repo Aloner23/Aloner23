@@ -1,9 +1,9 @@
 # Carlos
 ### Desarrollo herramientas para operar negocios y tomar mejores decisiones.
 
-Construyo aplicaciones con **React, TypeScript y Python**: sistemas de operación, automatizaciones sobre Google Workspace y herramientas de análisis. Mi enfoque está en resolver el flujo completo: interfaz, datos, seguridad, pruebas y despliegue.
+Construyo aplicaciones **full-stack** con **React, TypeScript y Python** para operar negocios, automatizar procesos y convertir información en decisiones confiables. Mi enfoque integra interfaz, datos, seguridad, pruebas, despliegue y automatizaciones asistidas por IA con controles verificables.
 
-*Developer based in Mexico, focused on business applications, automation and reliable software.*
+*Full-stack developer based in Mexico, focused on business applications, automation and reliable software.*
 
 [Ver Explanada](https://aloner23.github.io/Explanada/) · [Probar el simulador](https://aloner23.github.io/simulador-financiero-mx/) · [Explorar la quiniela](https://aloner23.github.io/quiniela-mundial/)
 
@@ -45,6 +45,16 @@ Pronósticos, clasificación y administración sobre Google Sheets, con una demo
 
 [Demo: entrar como Participante](https://aloner23.github.io/quiniela-mundial/) · [Informe de seguridad](https://github.com/Aloner23/quiniela-mundial/blob/main/docs/SEGURIDAD.md) · [CI](https://github.com/Aloner23/quiniela-mundial/actions/workflows/ci.yml)
 
+### [Ops AI Automation · IA con control humano](https://github.com/Aloner23/ops-ai-automation)
+
+Automatiza solicitudes operativas con clasificación, propuestas de acción, políticas en el servidor y trazabilidad, sin delegar decisiones sensibles a un modelo.
+
+**Qué demuestra:** diseño de una frontera de proveedor de IA, validación determinista, redacción de datos de contacto en auditorías y aprobación humana antes de ejecutar acciones. La demo actual es reproducible y no usa credenciales ni servicios externos.
+
+**Python · FastAPI · Políticas de negocio · Pruebas · CI**
+
+[Repositorio](https://github.com/Aloner23/ops-ai-automation) · [API local y guía de ejecución](https://github.com/Aloner23/ops-ai-automation#ejecutar)
+
 ## Más proyectos
 
 | Proyecto | Problema y enfoque | Tecnologías |
@@ -62,7 +72,7 @@ Pronósticos, clasificación y administración sobre Google Sheets, con una demo
 
 **Frontend:** React, TypeScript, Vite, Zustand y Recharts.  
 **Backend y datos:** Python, FastAPI, Django, Firebase, pandas y OR-Tools.  
-**Automatización:** Google Apps Script y Google Sheets.
+**Automatización e IA:** Google Apps Script, Google Sheets y flujos con validación, aprobación humana y auditoría.
 
 ## Contacto
 
